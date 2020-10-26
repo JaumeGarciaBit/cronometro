@@ -1,6 +1,8 @@
+let chronometer;
+
 describe('', function () {
   beforeEach(function () {
-    chronometer = new Chronometer();
+  chronometer = new Chronometer();
   });
 
   describe('constructor function', function () {
